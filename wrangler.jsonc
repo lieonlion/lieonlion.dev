@@ -4,7 +4,7 @@
  */
  {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "lieonlion.dev",
+	"name": "lieonlion-dev",
 	"compatibility_date": "2025-03-27",
 	"compatibility_flags": [
 		"nodejs_compat"
